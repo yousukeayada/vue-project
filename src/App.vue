@@ -1,6 +1,10 @@
 <template>
   <div>
-    <MyHeader class="mb-5"></MyHeader>
+    <MyHeader class=""></MyHeader>
+    <MyBody></MyBody>
+    <MyBody></MyBody>
+    <MyBody></MyBody>
+    <MyBody></MyBody>
     <MyBody></MyBody>
     <MyBody></MyBody>
   </div>

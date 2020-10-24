@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="m-5 p-5">
         <h2>{{ title }}</h2>
         <p>{{ text }}</p>
     </div>
@@ -18,10 +18,11 @@ export default {
 
 <style scoped>
 div {
+    text-align: center;
     color: white;
     border-radius: 10px;
     background: #f36353;
-    box-shadow:  9px 9px 18px #cc5346, 
-                -9px -9px 18px #ff7360;
+    box-shadow:  5px 5px 5px #cc5346, 
+                -5px -5px 5px #ff7360;
 }
 </style>
